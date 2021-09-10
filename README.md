@@ -1,2 +1,2 @@
 # shopping
-Slider program using Amazon products
+JS program using Amazon products in a background slider
